@@ -15,5 +15,6 @@ public class NonPrimitive_DataTypes
 
         //2.Strings:used to store text
         String name="Nikhil";
+        System.out.println("Name: "+name);
     }
 }
