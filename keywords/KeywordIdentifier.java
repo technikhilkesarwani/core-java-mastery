@@ -4,7 +4,7 @@ Points:Java Keywords cannot be used as identifiers
 
 Identifiers:Identifiers are the name given to either class,constructor ,method etc.
 *  */
-package keywordsandidentifiers;
+package keywords;
 public class KeywordIdentifier
 {
     //'int' is a keyword and 'age' is an identifier
